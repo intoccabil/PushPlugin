@@ -125,6 +125,7 @@
 		<header-file src="src/ios/AppDelegate+notification.h" />
 		<header-file src="src/ios/PushPlugin.h" />
 
+                <resource-file src="beep.caf" />
 	</platform>
 
     <!-- blackberry10 -->
